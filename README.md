@@ -7,13 +7,13 @@ This project is a Machine Learning-based web application built to predict the wi
 -Real-time, interpretable results with input feedback.<br>
 ## Tech Stack Used<br>
 ### Category	 --     Tools & Libraries
-- Programming     	     Python
-- Data Handling	      Pandas, NumPy
-- Visualization        	Streamlit
-- ML Model	      Scikit-learn, Logistic Regression 
-- Model Persistence       	Pickle
-- Deployment	           Streamlit App
-- IDE/Notebook     	Jupyter Notebook, VS Code
+- Programming    - 	     Python
+- Data Handling	  -    Pandas, NumPy
+- Visualization    -    	Streamlit
+- ML Model	  -    Scikit-learn, Logistic Regression 
+- Model Persistence     -  	Pickle
+- Deployment	   -        Streamlit App
+- IDE/Notebook  -   	Jupyter Notebook, VS Code
 ## How It Works (User Inputs)
 - Select batting and bowling teams.<br>
 - Choose match venue (city).<br>
