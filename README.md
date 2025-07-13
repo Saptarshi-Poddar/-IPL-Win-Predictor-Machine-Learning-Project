@@ -6,7 +6,7 @@ This project is a Machine Learning-based web application built to predict the wi
 -  Displays both team probabilities in percentage format.<br>
 -Real-time, interpretable results with input feedback.<br>
 ## Tech Stack Used<br>
-### Category	      Tools & Libraries
+### Category	 --     Tools & Libraries
 - Programming     	     Python
 - Data Handling	      Pandas, NumPy
 - Visualization        	Streamlit
